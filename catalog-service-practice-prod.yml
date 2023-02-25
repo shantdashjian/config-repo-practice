@@ -1,0 +1,4 @@
+polar:
+  greeting: "Welcome to PRODUCTION catalog service, using externalized centralized configuration service, Spring Cloud 
+  Config
+    Server and GitHub"
